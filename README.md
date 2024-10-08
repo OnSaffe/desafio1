@@ -8,7 +8,7 @@ ________________________________________________________________________________
 - https://main--exquisite-mermaid-cc94da.netlify.app/
 
 <b>Link do Sheet Monkey: </b>
-- https://docs.google.com/spreadsheets/d/1TXkEGtebtaj2O_EeOiDt6MgiH_0kDr1r5UW-t_x9mDw/edit#gid=0
+- [https://docs.google.com/spreadsheets/d/1TXkEGtebtaj2O_EeOiDt6MgiH_0kDr1r5UW-t_x9mDw/edit#gid=0](https://docs.google.com/spreadsheets/d/1UZBcfHS2S8garGN8KSujWO_jcXgmT3Y3i0VN4AoPYkQ/edit)
 _______________________________________________________________________________________
 <b>Preview do Projeto: </b>
 
