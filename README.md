@@ -1,6 +1,6 @@
 #  Landing Page  - Arquitetura
 
-Landing Page, utilizando as tecnologias:
+Utilizando as tecnologias:
 - HTML
 - CSS
 ____________________________________________________________________________________
