@@ -5,10 +5,10 @@ Desafio básico proposto pela Escola DNC criar uma Landing Page, utilizando as t
 - CSS
 ____________________________________________________________________________________
 <b>Deploy do projeto: </b>
-- [https://main--exquisite-mermaid-cc94da.netlify.app/](https://desafio1-qkvtgy52k-lleonardogiams-projects.vercel.app/)
+- (https://desafio1-qkvtgy52k-lleonardogiams-projects.vercel.app/)
 
 <b>Link do Sheet Monkey: </b>
-- [https://docs.google.com/spreadsheets/d/1TXkEGtebtaj2O_EeOiDt6MgiH_0kDr1r5UW-t_x9mDw/edit#gid=0](https://docs.google.com/spreadsheets/d/1UZBcfHS2S8garGN8KSujWO_jcXgmT3Y3i0VN4AoPYkQ/edit)
+- (https://docs.google.com/spreadsheets/d/1UZBcfHS2S8garGN8KSujWO_jcXgmT3Y3i0VN4AoPYkQ/edit)
 _______________________________________________________________________________________
 <b>Preview do Projeto: </b>
 
