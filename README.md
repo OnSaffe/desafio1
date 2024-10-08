@@ -1,6 +1,6 @@
-# Desafio - Landing Page 
+#  Landing Page  - Arquitetura
 
-Desafio básico proposto pela Escola DNC criar uma Landing Page, utilizando as tecnologias:
+Landing Page, utilizando as tecnologias:
 - HTML
 - CSS
 ____________________________________________________________________________________
